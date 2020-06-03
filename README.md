@@ -1,0 +1,1 @@
+# kitty-monokai-pro
